@@ -1,0 +1,12 @@
+{
+  "name": "my-resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ling-yunchi/my-resume.git",
+  "author": "Ling-yunchi <wr020210@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "neu run --frontend-lib-dev",
+    "build": "neu build --release"
+  }
+}
